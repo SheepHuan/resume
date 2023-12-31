@@ -1,3 +1,5 @@
-.DS_Store
-config.codekit
-config.codekit3
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
